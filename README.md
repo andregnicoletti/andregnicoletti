@@ -35,17 +35,18 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andregnicoletti&show_icons=true&theme=tokyonight&count_private=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andregnicoletti&layout=compact&theme=tokyonight" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=andregnicoletti&show_icons=true&theme=catppuccin_latte&count_private=true" width="530">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andregnicoletti&layout=compact&theme=catppuccin_latte" width="400">
 </p>
 
 ---
+
+
 
 ### 🌐 Onde me encontrar
 
